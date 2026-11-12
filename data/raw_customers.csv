@@ -1,0 +1,15 @@
+customer_id,customer_name,email,phone,city,signup_date,age,annual_income,segment
+C001,"  Asha Patil  ",ASHA.PATIL@EXAMPLE.COM,"+91 98765 43210","mumbai","12/01/2025",24,450000," regular "
+C002,Rohan Shah,rohan.shah@example.com,9876543211,PUNE,2025-02-15,29,620000,Premium
+C003,Meera Joshi,MEERA.JOSHI@EXAMPLE.COM,"09876543212"," nashik ",15-03-2025,31,,"regular"
+C004,Kabir Khan,kabir.khan@example.com,9876543213,Mumbai,2025/04/10,27,510000,PREMIUM
+C004,Kabir Khan,kabir.khan@example.com,9876543213,Mumbai,2025/04/10,27,510000,PREMIUM
+C005,"  Isha More ",isha.more@example.com,,Pune,2025-05-20,,580000,New
+C006,Arjun Rao,arjun.rao@example.com,9876543215,NASHIK,not-a-date,34,710000,Regular
+C007,Sana Khan,sana.khan@example.com,9876543216,Thane,2025-07-08,26,490000,
+C008,Ved Kulkarni,ved.kulkarni@example.com,9876543217,"  pune",2025-08-18,28,530000,New
+C009,Anaya Desai,anaya.desai@example.com,9876543218,Mumbai,2025-09-03,22,410000,regular
+C010,Dev Malhotra,dev.malhotra@example.com,9876543219,Thane,2025-10-12,105,660000,Premium
+C011, Nia Thomas ,nia.thomas@example.com,9876543220,Nashik,2025-11-21,30,invalid,New
+,Unknown Customer,not-an-email,9876543221,Pune,2025-12-01,25,500000,Regular
+C012,Omkar Jadhav,omkar.jadhav@example.com,9876543222,Nagpur,2025-12-15,23,470000,Regular
